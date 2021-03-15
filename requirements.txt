@@ -1,0 +1,6 @@
+tqdm==4.45.0
+numpy==1.18.2
+tensorflow_gpu==2.1.0
+matplotlib==3.2.1
+Pillow==7.2.0
+PyYAML==5.3.1

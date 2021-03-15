@@ -1,0 +1,14 @@
+.idea/
+*.pyc
+# readmedata/
+#outputs/images/
+checkpoints/
+checkpoints32/
+logs/
+outputs/
+outputsMergeData/
+script/__pycache__/
+outputs/
+checkpointsAug/
+test/
+network/ssdneteval.py
